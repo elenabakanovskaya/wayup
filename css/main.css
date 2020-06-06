@@ -1,0 +1,46 @@
+.logo {
+  width: 10em;
+}
+h1 {
+  color: red;
+}
+.textblock {
+  width: 100px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 100px;
+}
+
+.textcolor {
+  color: red;
+}
+
+h2 {
+  background-color: green;
+  color: white;
+}
+
+a {
+  color: blue;
+}
+
+.smallpadding {
+  padding: 5px;
+}
+
+.bigpadding {
+  padding: 30px;
+}
+
+.indent {
+  padding-left: 100px;
+}
+
+input {
+  opacity: 0.8;
+}
+
+li {
+  font-size: 25px;
+  border: 1px solid black;
+}
